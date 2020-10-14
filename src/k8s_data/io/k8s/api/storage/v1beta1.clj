@@ -1,0 +1,1 @@
+(clojure.core/ns filepath)(def spec-name spec-props)
